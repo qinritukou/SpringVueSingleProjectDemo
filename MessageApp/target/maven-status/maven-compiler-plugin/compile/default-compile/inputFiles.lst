@@ -1,0 +1,10 @@
+/Users/qinritukou/Documents/code/kotlin/Spring5AndVue/ch03/MessageApp/src/main/java/app/messages/config/AppConfig.java
+/Users/qinritukou/Documents/code/kotlin/Spring5AndVue/ch03/MessageApp/src/main/java/app/messages/model/Message.java
+/Users/qinritukou/Documents/code/kotlin/Spring5AndVue/ch03/MessageApp/src/main/java/app/messages/security/SecurityCheck.java
+/Users/qinritukou/Documents/code/kotlin/Spring5AndVue/ch03/MessageApp/src/main/java/app/messages/service/MessageService.java
+/Users/qinritukou/Documents/code/kotlin/Spring5AndVue/ch03/MessageApp/src/main/java/app/messages/web/MessageData.java
+/Users/qinritukou/Documents/code/kotlin/Spring5AndVue/ch03/MessageApp/src/main/java/app/messages/web/AuditingFilter.java
+/Users/qinritukou/Documents/code/kotlin/Spring5AndVue/ch03/MessageApp/src/main/java/app/messages/web/MessageController.java
+/Users/qinritukou/Documents/code/kotlin/Spring5AndVue/ch03/MessageApp/src/main/java/app/messages/Application.java
+/Users/qinritukou/Documents/code/kotlin/Spring5AndVue/ch03/MessageApp/src/main/java/app/messages/security/SecurityChecker.java
+/Users/qinritukou/Documents/code/kotlin/Spring5AndVue/ch03/MessageApp/src/main/java/app/messages/repository/MessageRepository.java

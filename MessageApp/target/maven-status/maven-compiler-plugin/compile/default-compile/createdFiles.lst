@@ -1,0 +1,10 @@
+app/messages/security/SecurityCheck.class
+app/messages/model/Message.class
+app/messages/security/SecurityChecker.class
+app/messages/web/MessageController.class
+app/messages/web/AuditingFilter.class
+app/messages/service/MessageService.class
+app/messages/web/MessageData.class
+app/messages/Application.class
+app/messages/config/AppConfig.class
+app/messages/repository/MessageRepository.class
